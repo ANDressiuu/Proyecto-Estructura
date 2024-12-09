@@ -11,10 +11,15 @@ Pantallas interactivas para mostrar el análisis y los resultados del algoritmo.
 Diseño intuitivo para mejorar la comprensión del proceso de ordenamiento.
 
 Integrantes del Proyecto:
+
 Andrés Contreras
+
 Wilmer Flores
+
 José Garzón
 
 Requisitos:
+
 Python 3.x
+
 Pygame
